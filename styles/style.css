@@ -148,7 +148,9 @@ color: #FFFFFF;
     
     position: relative;
     text-align: center;
+    
 
+    
     
   }
   
@@ -182,6 +184,22 @@ color: #FFFFFF;
     color: #F15B22;
 
 }
+.idea{
+  display: flex;  
+  gap: 80px;
+  padding-left: 250px;
+  margin-left: 100px;
+  margin-right: 100px;
+    
+  background-color: #F15B22;
+  
+
+}
+
+
+
+
+
   .contact{
     display: flex;
     gap: 50px;

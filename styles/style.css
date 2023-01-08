@@ -31,12 +31,7 @@ line-height: 26px;
 
 
 text-align: right;
-
-
-
 color: #444343;
-
-
 }
 
 .btn{
@@ -90,6 +85,18 @@ color: #FFFFFF;
 
 }
 
+ 
+.list{
+    margin-left: 87px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    
+    list-style-type: none;
+
+}
+
 
 .section_one{
     text-align: center;
@@ -99,7 +106,7 @@ color: #FFFFFF;
 }
 
 .what{
-    margin-top: 30px;
+    margin-top: 20px;
     
     
 
@@ -144,14 +151,14 @@ color: #FFFFFF;
 
     
   }
-  .text-block {
-   position: absolute;
-    top: 10px;
-    left: 200px;
   
-  }
 
   .con{
+    position: absolute;
+   
+    top: 10px;
+    left: 200px;
+    
     font-weight: 700;
     font-size: 40px;
     text-align: left;
@@ -161,7 +168,12 @@ color: #FFFFFF;
 
   }
 .butt{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    
  
+  
     font-weight: 400;
     font-size: 15px;
     line-height: 23px;
@@ -205,6 +217,25 @@ color: #FFFFFF;
     padding-bottom: 20px;
     max-width: 500px;
     
+    
+
+  }
+  .bt{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    color: #F15B22;
+    font-weight: 400;
+  font-size: 15px;
+  
+  }
+
+  input{
+    background-color: #151414;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 21px;
     
 
   }

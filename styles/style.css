@@ -1,0 +1,210 @@
+.try{
+    margin: 3px;
+    position: relative;
+}
+
+.one{   
+    position:absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #151414;
+
+
+}
+
+.two{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+text-align: right;
+
+
+
+color: #444343;
+
+
+}
+
+.btn{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+background-color:#F15B22;
+
+
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.second{
+    margin: 130px;
+}
+
+.div_s{
+    display: flex;
+    gap: 40px;
+
+}
+
+
+
+
+.header{
+    padding-left: 87px;
+    padding-top: 200px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+    
+        
+}
+.para{
+    padding-left: 87px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+
+.section_one{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.what{
+    margin-top: 30px;
+    
+    
+
+}
+
+.skills{
+    padding-left: 250px;
+    display: flex;  
+    gap: 80px;
+
+
+}
+
+
+.skill{
+    font-weight: 700;
+    font-size: 20px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.skill-dis{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
+}
+
+.container {
+    
+    position: relative;
+    text-align: center;
+
+    
+  }
+  .text-block {
+   position: absolute;
+    top: 10px;
+    left: 200px;
+  
+  }
+
+  .con{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: left;
+    max-width: 500px;
+    
+    color:white;
+
+  }
+.butt{
+ 
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: left;
+    
+    color: #F15B22;
+
+}
+  .contact{
+    display: flex;
+    gap: 50px;
+    color: azure;
+    
+    background-color: #151414;
+    padding: 130px 200px;
+  }
+
+  .com_one{
+    color: beige;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    
+
+
+  }
+
+  .com_two{
+
+    color: beige;
+    padding-left: 20px;
+  }
+
+  .h1{
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 45px;
+  }
+  .h2{
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 20px;
+    max-width: 500px;
+    
+    
+
+  }
